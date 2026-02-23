@@ -1,0 +1,10 @@
+temp/
+lib/
+out/
+cache/
+broadcast/
+.env
+index.html
+.git.env.old
+*.bak
+lib/
